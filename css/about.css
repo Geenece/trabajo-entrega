@@ -1,0 +1,82 @@
+h1 {
+    color: white;
+    font-family: 'Praise', 'cursive';
+    font-family: 'Teko', sans-serif;
+    font-size: 40px;
+
+    
+}
+h2 {
+    background-image: url(../img/FONDOABOUT.png);
+    background-size: contain;
+    width: 1080px;
+    height: 800px;
+    font-family: 'Praise', 'cursive';
+    font-family: 'Teko', sans-serif;
+}
+body {
+    background-image: url(../img/b795fc5853a1f187e92fa83d5aa7c4ba.gif);
+}
+
+
+section {
+    color: white;
+    position: absolute;
+    left: 70%;
+    top: 40%;
+    font-family: 'Praise', 'cursive';
+    font-family: 'Teko', sans-serif;
+    font-size: 30px;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+nav.menu ul li {
+    display: inline-block;
+    margin: 25px auto;
+    font-family: 'Praise' 'cursive';
+    font-family: 'Teko', sans-serif;
+    position: relative;
+    left: 70%;
+    
+}    
+
+
+
+
+
+
+
+
+
+nav.menu ul li a{
+    padding: 10px;
+    border: black;
+    background: black;
+    text-decoration: none;
+    color: grey;
+    
+}
+nav.menu ul li a:hover {
+    background: white;
+ }
+
+
+
+nav.form {
+    color: white;
+    margin: 100px 850px ;
+    font-family: 'Praise', 'cursive';
+    font-family: 'Teko', sans-serif;
+   
+    
+}
